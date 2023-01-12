@@ -16,3 +16,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uddin-mezbah&show_icons=true&locale=en" alt="uddin-mezbah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uddin-mezbah&" alt="uddin-mezbah" /></p>
+
+![](https://raw.githubusercontent.com/Uddin-Mezbah/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Uddin-Mezbah/cf-stats/main/output/light_card.svg)
